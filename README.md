@@ -37,7 +37,7 @@ After following the above instructions, you need to install pillow and pytables 
 
 ## Ubuntu
 
-Foolw the steps in this link [here](https://medium.com/@iamHarin17/how-to-setup-a-python-environment-for-deep-learning-with-anaconda-f65ab78a362) to setup a deep learing environment in Ubuntu .
+Follow the steps in this link [here](https://medium.com/@iamHarin17/how-to-setup-a-python-environment-for-deep-learning-with-anaconda-f65ab78a362) to setup a deep learing environment in Ubuntu .
 
 
 
@@ -45,7 +45,7 @@ Foolw the steps in this link [here](https://medium.com/@iamHarin17/how-to-setup-
 
 After setting up deep learning environment, follow these steps to run the .ipynb file that contains code for logistic regression.
 
-- 1.`git clone https://github.com/nakul3112/Logistic_Regression.git`
+- 1. `git clone https://github.com/nakul3112/Logistic_Regression.git`
 - 2. Ubuntu: `conda activate <environment-name>`
 
      Windows: `activate <environment-name>`
