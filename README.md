@@ -45,15 +45,15 @@ Follow the steps in this link [here](https://medium.com/@iamHarin17/how-to-setup
 
 After setting up deep learning environment, follow these steps to run the .ipynb file that contains code for logistic regression.
 
-- 1. `git clone https://github.com/nakul3112/Logistic_Regression.git`
-- 2. Ubuntu: `conda activate <environment-name>`
+-  `git clone https://github.com/nakul3112/Logistic_Regression.git`
+-  Ubuntu: `conda activate <environment-name>`
 
      Windows: `activate <environment-name>`
 
      Replace the environment name above with the name of your deep learning environment.
-- 3. Run jupyter notebook
+-  Run jupyter notebook
      `jupyter notebook`
-- 4. Navigate to the .ipynb file and run the kernel.
+-  Navigate to the .ipynb file and run the kernel.
 
 
 ## Learn more about Logistic Regression ?
