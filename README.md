@@ -20,7 +20,7 @@ This repository contains implementation for Logistic Regression on the given dat
 To run this project, you need to have deep learning setup in your local machine.
 
 
-# Windows:
+## Windows:
 
 Follow the instruction [here](http://inmachineswetrust.com/posts/deep-learning-setup/) to install conda on windows.
 
@@ -28,15 +28,32 @@ After following the above instructions, you need to install pillow and pytables 
  - Make sure deeplearning environment is active:
    `activate deeplearning`
  - Then, run following commands: 
+   
    `conda install pillow`
    
    `conda install pytables`
 
    `conda install h5py`
 
-# Ubuntu
+## Ubuntu
 
 Foolw the steps in this link [here](https://medium.com/@iamHarin17/how-to-setup-a-python-environment-for-deep-learning-with-anaconda-f65ab78a362) to setup a deep learing environment in Ubuntu .
+
+
+
+## Instructions to run the project
+
+After setting up deep learning environment, follow these steps to run the .ipynb file that contains code for logistic regression.
+
+- 1.`git clone https://github.com/nakul3112/Logistic_Regression.git`
+- 2. Ubuntu: `conda activate <environment-name>`
+
+     Windows: `activate <environment-name>`
+
+     Replace the environment name above with the name of your deep learning environment.
+- 3. Run jupyter notebook
+     `jupyter notebook`
+- 4. Navigate to the .ipynb file and run the kernel.
 
 
 ## Learn more about Logistic Regression ?
